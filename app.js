@@ -29,6 +29,8 @@ const withOutSession = () => {
             }
         })
     })
+
+    client.initialize();
 };
 
 //Condición tenaria: condición en una sola línea
