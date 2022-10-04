@@ -1,3 +1,4 @@
+//El codigo QR si se generates
 const fs = require('fs');
 const { Client } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
